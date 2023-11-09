@@ -1,0 +1,85 @@
+body{
+    background-color: #C0FFF6;
+    font-family: 'Inika', serif;
+    margin: 4px;
+}
+
+#pageContainer{
+    width: 1300px;
+    margin: 0px auto 0px auto;
+}
+
+.highlight{
+    color: #899499;
+}
+
+#hond{
+ float:left;
+ width: 500px;
+ margin-right: 40px;
+}
+
+#toren{
+    float:left;
+    width: 500px;
+ margin-right: 40px;
+}
+
+#Snee{
+    float:left;
+    width: 500px;
+ margin-right: 40px;
+}
+
+#Muur{
+    float:left;
+    width: 500px;
+ margin-right: 40px;
+}
+
+
+#next_Page{
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 123px;
+    height: 41px;
+    background-color: #7fffd4;
+    border-radius: 10px;
+}
+
+#text_Next_page{
+    float: left;
+    margin: 6px;
+    margin-left: 10px;
+    color: #768459;
+}
+
+#previous_Page{
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 160px;
+    height: 41px;
+    background-color: #7fffd4;
+    border-radius: 10px;
+}
+
+#text_Previous_page{
+    float: left;
+    margin: 6px;
+    margin-left: 10px;
+    color: #768459;
+}
+
+#line{
+    float: left;
+    height: 10px;
+    width: 750px;
+    background-color: #016164;
+    margin: 0px;
+}
+.reset{
+    clear: both;
+}
